@@ -130,6 +130,31 @@ This boilerplate is designed as a lightweight alternative to heavyweight framewo
 
 This project is open-source and free to use.
 
+# Contributing
+
+Thanks for your interest in contributing!
+
+## How to Contribute
+
+1. Fork the project
+2. Create a feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to your branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+## Guidelines
+
+- Keep changes focused and well-documented
+- Test your changes before submitting
+- Add meaningful commit messages
+
+Thanks! 🎉
+
+
+
+
+
+
 ## Author
 
 Created by **Prash**
@@ -140,3 +165,6 @@ Have suggestions or questions? Feel free to reach out:
 ---
 
 *This is my first project, and I'm open to suggestions for improvement!*
+
+
+
