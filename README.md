@@ -22,15 +22,18 @@ PHP-WITH-COMPOSER/
 │   ├── Models/
 │   └── Helper.php
 ├── config/
-│   ├── Database/
+├── Database/
 │   ├── Database.php
 │   └── Migrations/
 │       └── Migrations.php
 ├── public/
 │   ├── css/
+|       └── style.css
 │   ├── js/
+|       └── main.js
 │   ├── view/
-│   └── index.php
+|       └── home.view.php
+│   ├── index.php
 ├── routes/
 │   └── web.php
 ├── vendor/
